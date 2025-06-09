@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Henrique Capitani!
+# 👋 Olá! Eu sou o Henrique Capitani
 
-**Desenvolvedor em construção| Estudante de Java e Python | Apaixonado por Tecnologia**
+🎯 **Desenvolvedor em formação | Estudante de Java e Python | Apaixonado por Tecnologia**
 
-Sou um entusiasta da programação com foco em **Java**, mas também estou me desenvolvendo como programador Python. Gosto de criar soluções práticas, jogos, automações e projetos com inteligência artificial.
+Sou um entusiasta da programação, sempre em busca de novos desafios. Atualmente, estudo **Java** com foco em backend e **Python** para automações, bots, inteligência artificial e criação de jogos. Tenho interesse especial em soluções práticas e criativas, especialmente aquelas que envolvem tecnologia de ponta como IA e machine learning.
 
 📍 São Paulo, Brasil  
 🎓 Estudante de Desenvolvimento de Software  
@@ -11,52 +11,53 @@ Sou um entusiasta da programação com foco em **Java**, mas também estou me de
 
 ## 🚀 Tecnologias e Habilidades
 
-- 🐍 **Python** — automação, jogos com pygame, bots e IA (OpenAI)
-- ☕ **Java** — desenvolvimento de APIs e aplicativos (Spring Boot, Maven)
-- 📦 **Git & GitHub** — versionamento de código e colaboração
-- 🧠 **IA & Machine Learning** — projetos com previsão e geração de conteúdo
-- 🎮 **Pygame** — criação de jogos 2D com Python
+- 🐍 **Python** – automações, jogos com pygame, bots e IA com OpenAI
+- ☕ **Java** – APIs REST com Spring Boot, Maven e boas práticas de backend
+- 🧠 **Inteligência Artificial & Machine Learning** – modelos preditivos e geração de conteúdo
+- 🛠️ **Git & GitHub** – versionamento, colaboração e projetos open-source
+- 🎮 **Pygame** – desenvolvimento de jogos 2D com Python
 
 ---
 
-## 📁 Repositórios em Destaque
+## 📌 Repositórios em Destaque
 
 🔹 [**FlappyBird**](https://github.com/Henrique-Capitani/FlappyBird)  
-Recriação do clássico jogo em Python com Pygame.
+🎮 Jogo clássico recriado com Pygame em Python
 
 🔹 [**ChatBot-AI-Python**](https://github.com/Henrique-Capitani/ChatBot-AI-Pyhton)  
-Chatbot com integração da OpenAI (GPT) e interface de terminal.
+🤖 Chatbot com integração à OpenAI e interface interativa
 
 🔹 [**Automacao-de-Tarefas-Python**](https://github.com/Henrique-Capitani/Automacao-de-Tarefas-Python)  
-Scripts em Python para automatizar tarefas repetitivas no dia a dia.
+⚙️ Scripts para facilitar tarefas repetitivas do dia a dia
 
 🔹 [**Artificial-Intelligence-and-Predictions-Python**](https://github.com/Henrique-Capitani/Artificial-Intelligence-and-Predictions-Python)  
-Projetos com aprendizado de máquina e previsões.
+📈 Projetos com machine learning e modelos preditivos
 
 🔹 [**ViaCEP**](https://github.com/Henrique-Capitani/ViaCEP)  
-Aplicação Java para busca de endereços com a API ViaCEP.
+🗺️ Consulta de endereços via API em uma aplicação Java
 
 🔹 [**dslist**](https://github.com/Henrique-Capitani/dslist)  
-Lista de jogos com backend em Java e Spring Boot.
+🎮 API com backend em Java/Spring Boot para lista de jogos
 
 ---
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Em Desenvolvimento
 
-- Avançando no ecossistema **Spring Boot** com Java  
-- Melhorando práticas com **POO e testes automatizados**  
-- Explorando **bibliotecas de IA e automação em Python**  
+- 🔧 Aprofundando conhecimentos em **Spring Boot** e arquitetura REST  
+- 📘 Aprimorando lógica, **POO** e testes automatizados  
+- 🤖 Explorando bibliotecas avançadas de IA e automação com Python
 
 ---
 
-## 🤝 Vamos Conectar?
+## 🤝 Vamos nos Conectar?
 
-Gosto de aprender com outras pessoas e colaborar em projetos.  
-📫 Me envie uma mensagem por aqui no GitHub!  
-💬 Sempre aberto a feedbacks, parcerias ou bate-papos sobre tecnologia.
-🔗 [💼 LinkedIn](https://www.linkedin.com/in/henrique-capitani-803b7a16a/)
+Adoro trocar ideias sobre tecnologia, aprender com outras pessoas e colaborar em projetos!
+
+📫 Fique à vontade para me enviar uma mensagem aqui pelo GitHub  
+🔗 [💼 LinkedIn](https://www.linkedin.com/in/henrique-capitani-803b7a16a/) – vamos conversar!
 
 ---
 
 *Obrigado por visitar meu perfil!*  
-*Henrique Capitani*
+✨ *Henrique Capitani*
+
