@@ -19,45 +19,34 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
 
 ---
 
-## 📌 Repositórios em Destaque
+<div>
+  <a href="https://github.com/Henrique-Capitani">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Capitani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Capitani&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
+</div>
 
-🔹 [**FlappyBird**](https://github.com/Henrique-Capitani/FlappyBird)  
-🎮 Jogo clássico recriado com Pygame em Python
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
 
-🔹 [**ChatBot-AI-Python**](https://github.com/Henrique-Capitani/ChatBot-AI-Pyhton)  
-🤖 Chatbot com integração à OpenAI e interface interativa
 
-🔹 [**Automacao-de-Tarefas-Python**](https://github.com/Henrique-Capitani/Automacao-de-Tarefas-Python)  
-⚙️ Scripts para facilitar tarefas repetitivas do dia a dia
 
-🔹 [**Artificial-Intelligence-and-Predictions-Python**](https://github.com/Henrique-Capitani/Artificial-Intelligence-and-Predictions-Python)  
-📈 Projetos com machine learning e modelos preditivos
+ 
 
-🔹 [**ViaCEP**](https://github.com/Henrique-Capitani/ViaCEP)  
-🗺️ Consulta de endereços via API em uma aplicação Java
+<div> 
+  <a href="mailto:henriquecapitani.mk@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-capitani-803b7a16a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
-🔹 [**dslist**](https://github.com/Henrique-Capitani/dslist)  
-🎮 API com backend em Java/Spring Boot para lista de jogos
+![Snake animation](https://github.com/Henrique-Capitani/Henrique-Capitani/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 🌱 Em Desenvolvimento
-
-- 🔧 Aprofundando conhecimentos em **Spring Boot** e arquitetura REST  
-- 📘 Aprimorando lógica, **POO** e testes automatizados  
-- 🤖 Explorando bibliotecas avançadas de IA e automação com Python
-
----
-
-## 🤝 Vamos nos Conectar?
-
-Adoro trocar ideias sobre tecnologia, aprender com outras pessoas e colaborar em projetos!
-
-📫 Fique à vontade para me enviar uma mensagem aqui pelo GitHub  
-🔗 [💼 LinkedIn](https://www.linkedin.com/in/henrique-capitani-803b7a16a/) – vamos conversar!
-
----
-
-*Obrigado por visitar meu perfil!*  
-✨ *Henrique Capitani*
 
