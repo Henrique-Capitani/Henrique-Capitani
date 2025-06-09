@@ -54,6 +54,7 @@ Lista de jogos com backend em Java e Spring Boot.
 Gosto de aprender com outras pessoas e colaborar em projetos.  
 📫 Me envie uma mensagem por aqui no GitHub!  
 💬 Sempre aberto a feedbacks, parcerias ou bate-papos sobre tecnologia.
+🔗 [💼 LinkedIn](https://www.linkedin.com/in/henrique-capitani-803b7a16a/)
 
 ---
 
