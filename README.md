@@ -1,4 +1,10 @@
-# 👋 Olá! Eu sou o Henrique Capitani
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4169E1&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Capitani!" alt="Typing SVG">
+  </a>
+</div>
+
+---
 
 🎯 **Desenvolvedor em formação | Estudante de Java e Python | Apaixonado por Tecnologia**
 
@@ -34,7 +40,7 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
-##
+---
 
 
 <div> 
