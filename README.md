@@ -46,6 +46,7 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
   </a> 
 </div>
 
- ![Snake animation](https://github.com/Henrique-Capitani/Henrique-Capitani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Henrique-Capitani/Henrique-Capitani/raw/main/dist/github-contribution-grid-snake.svg)
+
 
 
