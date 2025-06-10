@@ -34,9 +34,8 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
+##
 
-
- 
 
 <div> 
   <a href="mailto:henriquecapitani.mk@gmail.com">
@@ -47,6 +46,6 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
   </a> 
 </div>
 
-![Snake animation](https://github.com/Henrique-Capitani/Henrique-Capitani/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Henrique-Capitani/Henrique-Capitani/blob/output/github-contribution-grid-snake.svg)
 
 
