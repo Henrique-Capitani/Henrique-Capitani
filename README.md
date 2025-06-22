@@ -27,9 +27,10 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
 
 ## 📊 GitHub Stats
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Capitani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Capitani&layout=compact&langs_count=7&theme=highcontrast&cache_seconds=1)
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Henrique-Capitani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Capitani&layout=compact&langs_count=7&theme=highcontrast&cache_seconds=1" />
+</div>
 
 ---
 
