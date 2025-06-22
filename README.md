@@ -17,31 +17,35 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
 
 ## 🚀 Tecnologias e Habilidades
 
-- 🐍 **Python** – automações, jogos com pygame, bots e IA com OpenAI
-- ☕ **Java** – APIs REST com Spring Boot, Maven e boas práticas de backend
-- 🧠 **Inteligência Artificial & Machine Learning** – modelos preditivos e geração de conteúdo
-- 🛠️ **Git & GitHub** – versionamento, colaboração e projetos open-source
-- 🎮 **Pygame** – desenvolvimento de jogos 2D com Python
+- 🐍 **Python** – automações, jogos com pygame, bots e IA com OpenAI  
+- ☕ **Java** – APIs REST com Spring Boot, Maven e boas práticas de backend  
+- 🧠 **Inteligência Artificial & Machine Learning** – modelos preditivos e geração de conteúdo  
+- 🛠️ **Git & GitHub** – versionamento, colaboração e projetos open-source  
+- 🎮 **Pygame** – desenvolvimento de jogos 2D com Python  
 
 ---
+
+## 📊 GitHub Stats
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Capitani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Capitani&layout=compact&langs_count=7&theme=highcontrast&cache_seconds=1)
+
+---
+
+## 🧰 Tecnologias
 
 <div>
-  <a href="https://github.com/Henrique-Capitani">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Capitani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Capitani&layout=compact&langs_count=7&theme=highcontrast"/>
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 ---
 
+## 📫 Contato
 
 <div> 
   <a href="mailto:henriquecapitani.mk@gmail.com">
@@ -52,10 +56,10 @@ Sou um entusiasta da programação, sempre em busca de novos desafios. Atualment
   </a> 
 </div>
 
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique-Capitani/Henrique-Capitani/output/github-contribution-grid-snake.svg">
 </picture>
-
-
